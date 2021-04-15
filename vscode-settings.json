@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.iconTheme": "vscode-icons",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.formatOnPaste": true,
+    "window.zoomLevel": 1
+}
