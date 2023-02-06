@@ -10,6 +10,7 @@ brew install --cask alfred
 brew install --cask firefox
 brew install --cask vscodium
 brew install --cask gitkraken
+brew install --cask raycast
 brew install docker
 # install nvm/node
 
@@ -22,3 +23,7 @@ npm install -g lite-server eslint
 brew cask install visual-studio-code
 # update vscode settings
 # install vscode extensions 
+
+
+# space vim
+curl -sLf https://spacevim.org/install.sh | bash -s -- -h
