@@ -18,6 +18,8 @@ brew install --cask \
   imageoptim \
   maccy \
   protonvpn \
+  whatsapp \
+  messenger \
   appcleaner
  
 brew install \
