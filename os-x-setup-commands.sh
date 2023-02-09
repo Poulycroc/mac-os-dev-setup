@@ -11,6 +11,7 @@ brew install --cask \
   firefox \
   iterm2 \
   sublime-text \
+  visual-studio-code \
   slack \
   discord \
   signal \
