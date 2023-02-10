@@ -110,6 +110,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 # NV-Chad NeoVim IDE
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+# :TSInstall css html scss javascript php ruby go
 
 # NVM
 echo "source $(brew --prefix nvm)/nvm.sh" >> ~/.zshrc
