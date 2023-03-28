@@ -9,6 +9,7 @@ brew install --cask \
   1password \
   google-chrome  \
   firefox \
+  sequel-pro \
   iterm2 \
   sublime-text \
   vscodium \
