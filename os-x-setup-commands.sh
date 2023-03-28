@@ -9,6 +9,7 @@ brew install --cask \
   1password \
   google-chrome  \
   firefox \
+  raycast \
   sequel-pro \
   iterm2 \
   sublime-text \
