@@ -13,6 +13,7 @@ brew install --cask \
   sequel-pro \
   iterm2 \
   sublime-text \
+  texifier \
   vscodium \
   visual-studio-code \
   slack \
