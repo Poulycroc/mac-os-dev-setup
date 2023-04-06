@@ -28,6 +28,7 @@ brew install --cask \
  
 brew install \
   wget \
+  tree \
   exa \
   php \
   git \
