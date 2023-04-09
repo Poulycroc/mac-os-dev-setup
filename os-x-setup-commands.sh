@@ -12,6 +12,7 @@ brew install --cask \
   raycast \
   sequel-pro \
   iterm2 \
+  kitty \
   sublime-text \
   vscodium \
   visual-studio-code \
@@ -107,10 +108,6 @@ source /opt/homebrew/opt/nvm/nvm.sh
 # use starship theme (needs to be at the end)
 eval "\$(starship init zsh)"
 EOT
-
-
-
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # NV-Chad NeoVim IDE
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
