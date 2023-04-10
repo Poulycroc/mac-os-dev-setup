@@ -121,3 +121,6 @@ node -v && npm -v
 npm install -g npm@latest
 npm set init.author.name "PoulyCroc"
 npm set init.author.email "poulycroc.studio@gmail.com"
+
+
+sh nerd-font-install.sh
