@@ -32,6 +32,7 @@ brew install \
   tree \
   exa \
   php \
+  tmux \
   git \
   nvm \
   pnpm \
