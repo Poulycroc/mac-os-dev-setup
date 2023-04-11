@@ -34,6 +34,7 @@ brew install \
   php \
   tmux \
   git \
+  lazygit \
   nvm \
   pnpm \
   graphicsmagick \
