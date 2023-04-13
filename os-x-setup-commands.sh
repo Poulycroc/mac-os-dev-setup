@@ -61,4 +61,6 @@ npm set init.author.name "PoulyCroc"
 npm set init.author.email "poulycroc.studio@gmail.com"
 
 
+# add https://www.homerow.app/
+
 sh nerd-font-install.sh
