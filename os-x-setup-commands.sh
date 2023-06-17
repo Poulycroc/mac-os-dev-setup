@@ -44,7 +44,6 @@ brew install \
   docker \
   vips \
   phpunit \
-  jsdoc \
   composer
 
 sh zsh-install.sh
@@ -52,7 +51,7 @@ sh zsh-install.sh
 # NV-Chad NeoVim IDE
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 # from https://github.com/nvim-treesitter/nvim-treesitter
-# :TSInstall css html scss javascript php ruby go sass sql regex json dockerfile bash twig rust astro tsx
+# :TSInstall css html scss javascript php ruby go sass sql regex jsdoc json dockerfile bash twig rust astro tsx
 
 # NVM
 echo "source $(brew --prefix nvm)/nvm.sh" >> ~/.zshrc
