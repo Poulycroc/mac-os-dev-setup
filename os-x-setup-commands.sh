@@ -43,6 +43,7 @@ brew install \
   ruby \
   docker \
   vips \
+  phpunit \
   composer
 
 sh zsh-install.sh
