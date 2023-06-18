@@ -44,6 +44,7 @@ brew install \
   docker \
   vips \
   phpunit \
+  phpenv \
   composer
 
 sh zsh-install.sh
