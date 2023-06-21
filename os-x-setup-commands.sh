@@ -6,6 +6,7 @@ xcode-select --install
 brew update
 
 brew install --cask \
+  arc \
   1password \
   google-chrome  \
   firefox \
