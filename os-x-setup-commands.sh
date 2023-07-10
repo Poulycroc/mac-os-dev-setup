@@ -8,6 +8,7 @@ brew update
 brew install --cask \
   arc \
   1password \
+  1password/tap/1password-cli \
   google-chrome  \
   firefox \
   raycast \
