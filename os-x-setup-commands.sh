@@ -27,6 +27,7 @@ brew install --cask \
   protonvpn \
   whatsapp \
   messenger \
+  keepassx \
   appcleaner
  
 brew install \
