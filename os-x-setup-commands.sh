@@ -28,6 +28,7 @@ brew install --cask \
   whatsapp \
   messenger \
   keepassx \
+  owncloud \
   appcleaner
  
 brew install \
