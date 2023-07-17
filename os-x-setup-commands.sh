@@ -50,6 +50,7 @@ brew install \
   phpunit \
   phpenv \
   cocoapods \
+  ripgrep \
   sl \
   composer
 
