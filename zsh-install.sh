@@ -7,6 +7,11 @@ echo 'eval "$(starship init zsh)"' >> ~/.zshrc
 brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
+fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
+  
 #!/bin/sh
 
 cat <<EOT >> ~/.zshrc
@@ -59,7 +64,4 @@ autoload -U compinit && compinit
 
 # use nvm
 source /opt/homebrew/opt/nvm/nvm.sh
-
-# use starship theme (needs to be at the end)
-eval "\$(starship init zsh)"
 EOT
