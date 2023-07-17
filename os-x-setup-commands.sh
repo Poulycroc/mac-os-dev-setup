@@ -49,6 +49,8 @@ brew install \
   vips \
   phpunit \
   phpenv \
+  cocoapods \
+  sl \
   composer
 
 sh zsh-install.sh
