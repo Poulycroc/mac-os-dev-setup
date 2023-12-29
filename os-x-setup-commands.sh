@@ -29,7 +29,9 @@ brew install --cask \
   messenger \
   keepassx \
   owncloud \
-  appcleaner
+  appcleaner \
+  bruno \
+  postman
  
 brew install \
   wget \
@@ -52,7 +54,8 @@ brew install \
   cocoapods \
   ripgrep \
   sl \
-  composer
+  composer \
+  pyenv
 
 sh zsh-install.sh
 
